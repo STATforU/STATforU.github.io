@@ -6,16 +6,25 @@
     <description>Recent content on STAT for U | UMONS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <copyright>Conçu par [la communauté UMONS](https://www.umons.ac.be)</copyright>
+    <copyright>Conçu par et pour [la communauté UMONS](https://www.umons.ac.be)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://statforu.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accompagner à toutes les étapes du processus d&#39;analyse de données</title>
-      <link>https://statforu.github.io/fr/blog/service3-accompany/</link>
+      <link>https://statforu.github.io/fr/services/service3-accompany/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://statforu.github.io/fr/blog/service3-accompany/</guid>
+      <guid>https://statforu.github.io/fr/services/service3-accompany/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>ACTS - Advanced Center for inTernet Studies</title>
+      <link>https://statforu.github.io/fr/projects/project2-acts/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://statforu.github.io/fr/projects/project2-acts/</guid>
+      <description>Participation au Projet de recherche interuniversitaire réunissant toutes les universités belges francophones et néerlandophones en vue de mettre en place un panel permanent de plus de 4000 citoyens belges (16 ans et +) pour réaliser des enquêtes par questionnaire auprès d’un échantillon représentatif de la population belge (Kathy Huet, Mélanie Volral, Benoît Mahy)</description>
     </item>
     
     <item>
@@ -29,20 +38,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     
     <item>
       <title>Conseiller dans le choix des méthodes statistiques, leur interprétation et la diffusion des résultats</title>
-      <link>https://statforu.github.io/fr/blog/service2-advise/</link>
+      <link>https://statforu.github.io/fr/services/service2-advise/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://statforu.github.io/fr/blog/service2-advise/</guid>
+      <guid>https://statforu.github.io/fr/services/service2-advise/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Former les utilisateurs aux statistiques et science des données</title>
-      <link>https://statforu.github.io/fr/blog/service5-train/</link>
+      <title>Do-it-yourstat, vos propres ressources stats</title>
+      <link>https://statforu.github.io/fr/projects/project1-do-it-yourstat/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://statforu.github.io/fr/blog/service5-train/</guid>
+      <guid>https://statforu.github.io/fr/projects/project1-do-it-yourstat/</guid>
+      <description>Soutien à la formation en statistiques et analyse des données. Création d’un outil adaptatif d’aide à l’apprentissage des statistiques (Philippe Grosjean, Kathy Huet, Mélanie Volral, Dimitri Cauchie, Guylian Engels, Alexandre Waroquier)</description>
+    </item>
+    
+    <item>
+      <title>Former les utilisateurs aux statistiques et science des données</title>
+      <link>https://statforu.github.io/fr/services/service5-train/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://statforu.github.io/fr/services/service5-train/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
@@ -85,20 +103,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     
     <item>
       <title>Outiller avec des logiciels spécifiques (OpenSource)</title>
-      <link>https://statforu.github.io/fr/blog/service4-equip/</link>
+      <link>https://statforu.github.io/fr/services/service4-equip/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://statforu.github.io/fr/blog/service4-equip/</guid>
+      <guid>https://statforu.github.io/fr/services/service4-equip/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Partager des ressources et des expériences</title>
-      <link>https://statforu.github.io/fr/blog/service1-share/</link>
+      <link>https://statforu.github.io/fr/services/service1-share/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://statforu.github.io/fr/blog/service1-share/</guid>
+      <guid>https://statforu.github.io/fr/services/service1-share/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>

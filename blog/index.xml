@@ -1,62 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Services on STAT for U | UMONS</title>
+    <title>Blog on STAT for U | UMONS</title>
     <link>https://statforu.github.io/blog/</link>
-    <description>Recent content in Our Services on STAT for U | UMONS</description>
+    <description>Recent content in Blog on STAT for U | UMONS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Designed By [UMONS people](https://www.umons.ac.be)</copyright>
-    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://statforu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Accompany in All the Steps of the Data Analysis Process</title>
-      <link>https://statforu.github.io/blog/service3-accompany/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://statforu.github.io/blog/service3-accompany/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Advise in the choice of Statistical methods, Interpretation and Diffusion of your Results</title>
-      <link>https://statforu.github.io/blog/service2-advise/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://statforu.github.io/blog/service2-advise/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Equip with Specific (OpenSource) Software</title>
-      <link>https://statforu.github.io/blog/service4-equip/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://statforu.github.io/blog/service4-equip/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Share Resources and Experiences</title>
-      <link>https://statforu.github.io/blog/service1-share/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://statforu.github.io/blog/service1-share/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Train Users to Statistics and Data Science</title>
-      <link>https://statforu.github.io/blog/service5-train/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://statforu.github.io/blog/service5-train/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
+    <copyright>Designed By and For [UMONS people](https://www.umons.ac.be)</copyright><atom:link href="https://statforu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

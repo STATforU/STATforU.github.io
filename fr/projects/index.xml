@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on STAT for U | UMONS</title>
+    <link>https://statforu.github.io/fr/projects/</link>
+    <description>Recent content in Projets on STAT for U | UMONS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Conçu par et pour [la communauté UMONS](https://www.umons.ac.be)</copyright>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://statforu.github.io/fr/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACTS - Advanced Center for inTernet Studies</title>
+      <link>https://statforu.github.io/fr/projects/project2-acts/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://statforu.github.io/fr/projects/project2-acts/</guid>
+      <description>Participation au Projet de recherche interuniversitaire réunissant toutes les universités belges francophones et néerlandophones en vue de mettre en place un panel permanent de plus de 4000 citoyens belges (16 ans et +) pour réaliser des enquêtes par questionnaire auprès d’un échantillon représentatif de la population belge (Kathy Huet, Mélanie Volral, Benoît Mahy)</description>
+    </item>
+    
+    <item>
+      <title>Do-it-yourstat, vos propres ressources stats</title>
+      <link>https://statforu.github.io/fr/projects/project1-do-it-yourstat/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://statforu.github.io/fr/projects/project1-do-it-yourstat/</guid>
+      <description>Soutien à la formation en statistiques et analyse des données. Création d’un outil adaptatif d’aide à l’apprentissage des statistiques (Philippe Grosjean, Kathy Huet, Mélanie Volral, Dimitri Cauchie, Guylian Engels, Alexandre Waroquier)</description>
+    </item>
+    
+  </channel>
+</rss>
