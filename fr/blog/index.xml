@@ -1,49 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Latest Post on Vex | hugo landing page template</title>
+    <title>Nos services on STAT for U | UMONS</title>
     <link>https://statforu.github.io/fr/blog/</link>
-    <description>Recent content in Our Latest Post on Vex | hugo landing page template</description>
+    <description>Recent content in Nos services on STAT for U | UMONS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <copyright>Conçu par [la communauté UMONS](https://www.umons.ac.be)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://statforu.github.io/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Comment choisir la bonne montre pour vous.</title>
-      <link>https://statforu.github.io/fr/blog/post-1/</link>
+      <title>Accompagner à toutes les étapes du processus d&#39;analyse de données</title>
+      <link>https://statforu.github.io/fr/blog/service3-accompany/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://statforu.github.io/fr/blog/post-1/</guid>
+      <guid>https://statforu.github.io/fr/blog/service3-accompany/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Meilleur bracelet de montre dans votre budget</title>
-      <link>https://statforu.github.io/fr/blog/post-3/</link>
+      <title>Conseiller dans le choix des méthodes statistiques, leur interprétation et la diffusion des résultats</title>
+      <link>https://statforu.github.io/fr/blog/service2-advise/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://statforu.github.io/fr/blog/post-3/</guid>
+      <guid>https://statforu.github.io/fr/blog/service2-advise/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Pourquoi acheter une montre intelligente.</title>
-      <link>https://statforu.github.io/fr/blog/post-2/</link>
+      <title>Former les utilisateurs aux statistiques et science des données</title>
+      <link>https://statforu.github.io/fr/blog/service5-train/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://statforu.github.io/fr/blog/post-2/</guid>
+      <guid>https://statforu.github.io/fr/blog/service5-train/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Regardez ça compte</title>
-      <link>https://statforu.github.io/fr/blog/post-4/</link>
+      <title>Outiller avec des logiciels spécifiques (OpenSource)</title>
+      <link>https://statforu.github.io/fr/blog/service4-equip/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://statforu.github.io/fr/blog/post-4/</guid>
+      <guid>https://statforu.github.io/fr/blog/service4-equip/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Partager des ressources et des expériences</title>
+      <link>https://statforu.github.io/fr/blog/service1-share/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://statforu.github.io/fr/blog/service1-share/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>

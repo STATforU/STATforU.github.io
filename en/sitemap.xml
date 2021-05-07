@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://statforu.github.io/blog/service3-accompany/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://statforu.github.io/fr/blog/service3-accompany/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://statforu.github.io/blog/service3-accompany/"
+                />
+  </url><url>
+    <loc>https://statforu.github.io/blog/service2-advise/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://statforu.github.io/fr/blog/service2-advise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://statforu.github.io/blog/service2-advise/"
+                />
+  </url><url>
     <loc>https://statforu.github.io/products/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
@@ -28,17 +54,17 @@
                 href="https://statforu.github.io/products/product-1/"
                 />
   </url><url>
-    <loc>https://statforu.github.io/blog/post-3/</loc>
+    <loc>https://statforu.github.io/blog/service4-equip/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://statforu.github.io/fr/blog/post-3/"
+                href="https://statforu.github.io/fr/blog/service4-equip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://statforu.github.io/blog/post-3/"
+                href="https://statforu.github.io/blog/service4-equip/"
                 />
   </url><url>
     <loc>https://statforu.github.io/products/product-2/</loc>
@@ -52,19 +78,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://statforu.github.io/products/product-2/"
-                />
-  </url><url>
-    <loc>https://statforu.github.io/blog/post-1/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://statforu.github.io/fr/blog/post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://statforu.github.io/blog/post-1/"
                 />
   </url><url>
     <loc>https://statforu.github.io/products/product-4/</loc>
@@ -145,6 +158,19 @@
                 href="https://statforu.github.io/products/product-5/"
                 />
   </url><url>
+    <loc>https://statforu.github.io/blog/service1-share/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://statforu.github.io/fr/blog/service1-share/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://statforu.github.io/blog/service1-share/"
+                />
+  </url><url>
     <loc>https://statforu.github.io/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
@@ -158,30 +184,17 @@
                 href="https://statforu.github.io/"
                 />
   </url><url>
-    <loc>https://statforu.github.io/blog/post-4/</loc>
+    <loc>https://statforu.github.io/blog/service5-train/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://statforu.github.io/fr/blog/post-4/"
+                href="https://statforu.github.io/fr/blog/service5-train/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://statforu.github.io/blog/post-4/"
-                />
-  </url><url>
-    <loc>https://statforu.github.io/blog/post-2/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://statforu.github.io/fr/blog/post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://statforu.github.io/blog/post-2/"
+                href="https://statforu.github.io/blog/service5-train/"
                 />
   </url><url>
     <loc>https://statforu.github.io/products/product-3/</loc>
@@ -221,18 +234,6 @@
                 href="https://statforu.github.io/contact/"
                 />
   </url><url>
-    <loc>https://statforu.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://statforu.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://statforu.github.io/tags/"
-                />
-  </url><url>
     <loc>https://statforu.github.io/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -243,6 +244,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://statforu.github.io/privacy-policy/"
+                />
+  </url><url>
+    <loc>https://statforu.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://statforu.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://statforu.github.io/tags/"
                 />
   </url><url>
     <loc>https://statforu.github.io/terms-conditions/</loc>
