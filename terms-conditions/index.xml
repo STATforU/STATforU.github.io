@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terms &amp; Conditions on STAT for U | UMONS</title>
+    <title>Termes &amp; conditions on STAT for U | UMONS</title>
     <link>https://statforu.github.io/terms-conditions/</link>
-    <description>Recent content in Terms &amp; Conditions on STAT for U | UMONS</description>
+    <description>Recent content in Termes &amp; conditions on STAT for U | UMONS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Designed By and For [UMONS people](https://www.umons.ac.be)</copyright><atom:link href="https://statforu.github.io/terms-conditions/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language>
+    <copyright>Conçu par et pour [la communauté UMONS](https://www.umons.ac.be)</copyright><atom:link href="https://statforu.github.io/terms-conditions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
